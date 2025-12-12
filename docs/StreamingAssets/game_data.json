@@ -1,0 +1,30 @@
+{
+    "gameProgress": {
+        "currentSceneId": 0,
+        "totalGameScore": 0,
+        "pointsPerObject": 10,
+        "pointsPerQuiz": 10,
+        "objectsPerScene": 10,
+        "scenes": [
+            {
+                "sceneId": 0,
+                "sceneName": "Digestive System",
+                "isUnlocked": true,
+                "isCompleted": false,
+                "objects": [
+                    { "id": 1, "objectName": "mouth", "question": "Where does digestion begin?", "answerOptions": ["Stomach", "Intestines", "Liver", "Mouth"], "correctAnswerIndex": 3, "isFound": false },
+                    { "id": 2, "objectName": "esophagus", "question": "What is the tube connecting mouth to stomach?", "answerOptions": ["Trachea", "Intestine", "Vein", "Esophagus"], "correctAnswerIndex": 3, "isFound": false },
+                    { "id": 3, "objectName": "stomach", "question": "Which organ breaks food with acid?", "answerOptions": ["Liver", "Pancreas", "Small Intestine", "Stomach"], "correctAnswerIndex": 3, "isFound": false },
+                    { "id": 4, "objectName": "liver", "question": "Which organ produces bile?", "answerOptions": ["Stomach", "Pancreas", "Liver", "Gallbladder"], "correctAnswerIndex": 2, "isFound": false },
+                    { "id": 5, "objectName": "anus", "question": "Through which part is waste expelled?", "answerOptions": ["Rectum", "Bladder", "Anus", "Pancreas"], "correctAnswerIndex": 2, "isFound": false },
+                    { "id": 6, "objectName": "pancreas", "question": "What does the pancreas produce?", "answerOptions": ["Bile", "Insulin", "Acid", "Enzymes"], "correctAnswerIndex": 1, "isFound": false},                                        
+                    { "id": 7, "objectName": "large intestine", "question": "What happens in the large intestine?", "answerOptions": ["Digestion", "Nutrient absorption", "Water absorption", "Bile production"], "correctAnswerIndex": 2, "isFound": false },
+                    { "id": 8, "objectName": "small intestine", "question": "Where is most nutrient absorption done?", "answerOptions": ["Large Intestine", "Stomach", "Small Intestine", "Esophagus"], "correctAnswerIndex": 2, "isFound": false },
+                    { "id": 9, "objectName": "rectum", "question": "What is the function of the rectum?", "answerOptions": ["Digestion", "Absorption", "Stores feces", "Produces gas"], "correctAnswerIndex": 2, "isFound": false },
+                    { "id": 10, "objectName": "gallbladder", "question": "What does the gallbladder store?", "answerOptions": ["Enzymes", "Acid", "Bile", "Glucose"], "correctAnswerIndex": 2, "isFound": false }
+                    
+                ]
+            }
+        ]
+    }
+}
